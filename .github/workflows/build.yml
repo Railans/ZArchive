@@ -1,7 +1,6 @@
 name: Build ZArchive
 
 on:
-  push:
   workflow_dispatch:
   push:
     branches: [ master ]
